@@ -51,9 +51,9 @@ print(fahr_to_celsius(71))
 
 # YOUR ANSWER HERE. Write your answers as comments
 #1.
-#
+#YES
 #2.
-#
+#We can decrease the amount of the program.
 
 # #### Done!
 # 
