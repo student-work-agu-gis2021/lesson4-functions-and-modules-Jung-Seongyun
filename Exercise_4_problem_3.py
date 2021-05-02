@@ -84,7 +84,20 @@ for temperature in temp_data:
 #   
 
 # YOUR CODE HERE
+zeros = 0
+ones = 0
+twos = 0
+threes = 0
 
+for temp_class in temp_classes:
+  if temp_class == 0:
+    zeros += 1
+  elif temp_class == 0:
+    ones += 1
+  elif temp_class == 0:
+    twos += 1
+  else:
+    threes += 1  
 
 
 # **TIP**: You might want to consider using a [**count()** function](https://www.tutorialspoint.com/python3/list_count.htm) OR a for loop for this.
