@@ -77,9 +77,9 @@ print("ok :)")
 
 # YOUR ANSWER HERE. Write your answer as comments
 #
-#
-#
-#
+#YES
+#YES
+#Maybe not
 #
 # YOUR ANSWER ENDS HERE
 
