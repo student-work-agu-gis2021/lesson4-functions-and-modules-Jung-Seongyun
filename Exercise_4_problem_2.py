@@ -26,6 +26,7 @@
 
 # YOUR CODE HERE to define temp_classifier
 
+
 # Use your newly created function to print the answers to the following questions:
 
 
